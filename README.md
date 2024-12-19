@@ -1,4 +1,5 @@
-# <h1>  Daniel Carrasco Toca <h1> <br> <h2> 42 Malaga Student </h2>
+# <h1>  Daniel Carrasco Toca <h1> 
+<h2> 42 Malaga Student </h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danicarras&theme=transparent)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danicarras&theme=transparent)
 
